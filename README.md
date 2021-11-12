@@ -54,7 +54,7 @@ Possibilita buscar as informações dos últimos concursos finalizados a partir 
 }
   
 # Projeto em desenvolvimento!
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 <br>
 <br>
 Nás próximas etapas pretendo que o sistema gere números aleatórios baseados em matemática e nos últimos resultados da mega sena, más isso não garante que alguém vá ganhar algum prêmio. 😁
